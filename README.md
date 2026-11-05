@@ -66,4 +66,4 @@ O painel abre no navegador. Suba o `avaliacoes.csv` de exemplo.
 
 ---
 
-Feito por **Rafael da Silveira Gonçales** · [LinkedIn](https://www.linkedin.com/in/rafael-da-silveira-gonçales-971ab81b3) · [GitHub](https://github.com/Rafael8353)
+Feito por **Rafael da Silveira Gonçales** · [LinkedIn](https://www.linkedin.com/in/rafaelgoncales) · [GitHub](https://github.com/Rafael8353)
